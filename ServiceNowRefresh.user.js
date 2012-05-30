@@ -3,6 +3,9 @@
 // @namespace ServiceNowRefresh
 // @description This will refresh certain pages on Service-Now.com
 // @include https://*.service-now.com/incident_list.do*
+// @include https://*.service-now.com/task_list.do*
+// @include https://*.service-now.com/problem_list.do*
+// @include https://*.service-now.com/change_request_list.do*
 // @version 2012.05.30
 // ==/UserScript==
 
