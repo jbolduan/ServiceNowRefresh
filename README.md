@@ -1,0 +1,1 @@
+This is a greasemonkey script which refreshes incident lists.
