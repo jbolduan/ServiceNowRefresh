@@ -6,7 +6,8 @@
 // @include https://*.service-now.com/task_list.do*
 // @include https://*.service-now.com/problem_list.do*
 // @include https://*.service-now.com/change_request_list.do*
-// @version 2012.05.30
+// @include https://*.service-now.com/ticket_list.do*
+// @version 2015.07.24
 // ==/UserScript==
 
 // ==Settings==
